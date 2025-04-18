@@ -4,6 +4,10 @@ Paper: Multispectral Semantic Segmentation for UAVs: A Benchmark Dataset and Bas
 
 Codes: https://github.com/yzbouc/UAVM
 
+# UAVid
+
+link: https://uavid.nl/#home
+
 ## UAV-CD-Datasets
 # UAV-SD
 Paper: CAS-Net: Comparison-Based Attention Siamese Network for Change Detection With an Open High-Resolution UAV Image Dataset
